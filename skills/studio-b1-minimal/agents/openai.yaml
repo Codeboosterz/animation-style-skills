@@ -1,0 +1,4 @@
+interface:
+  display_name: "B1 \u00b7 Minimal Stickman"
+  short_description: "Clean stickman explainers with precise staging"
+  default_prompt: "Use $studio-b1-minimal to create a storyboard and animation in this style for my next story."

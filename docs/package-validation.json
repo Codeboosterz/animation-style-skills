@@ -1,0 +1,25 @@
+{
+  "validated_on": "2026-11-09",
+  "skills_validated": 5,
+  "templates": {
+    "studio-expressive-hybrid": {
+      "ok": true,
+      "lintErrors": 0,
+      "runtimeErrors": 0
+    },
+    "studio-illustrated-authored": {
+      "ok": true,
+      "lintErrors": 0,
+      "runtimeErrors": 0
+    },
+    "studio-capsule-cinema": {
+      "ok": true,
+      "lintErrors": 0,
+      "runtimeErrors": 0
+    }
+  },
+  "b1_module": "Four action frames drawn successfully",
+  "copy_helpers": "All three copied successfully to isolated temporary directories",
+  "secret_scan": "No known local credential values found",
+  "notes": "Packaging checks; original film review evidence and limitations remain in style references."
+}

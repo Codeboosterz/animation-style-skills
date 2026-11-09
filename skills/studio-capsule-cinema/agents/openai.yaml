@@ -1,0 +1,4 @@
+interface:
+  display_name: "Capsule Cinema \u00b7 Articulated"
+  short_description: "Articulated capsule characters with clean contacts"
+  default_prompt: "Use $studio-capsule-cinema to create a storyboard and animation in this style for my next story."

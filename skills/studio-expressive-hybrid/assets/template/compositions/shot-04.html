@@ -1,0 +1,21 @@
+<template><style>#root{position:absolute;inset:0;overflow:hidden;background:#101522}video,canvas{display:block;position:absolute;inset:0;width:100%;height:100%;object-fit:fill}</style><div id="root" data-composition-id="shot-04" data-width="1920" data-height="1080"><canvas id="shot-04-canvas" class="clip" data-start="0" data-duration="4.333333333" width="1920" height="1080" data-beat="One knock"></canvas></div><script>
+window.__hf=window.__hf||{};window.__hf.buildReady=window.__hf.buildReady||{};
+window.__hf.buildReady['shot-04']=window.__brothersReady.then(async M=>{
+ const rig=await M.createDoor(document.getElementById('shot-04-canvas'),{"image": "assets/images/shot-04-knock-v2.png", "plate": "assets/layers/door-clean-plate.png"});
+ const tl=gsap.timeline({paused:true,onUpdate:rig.draw});
+ const clock={t:0};tl.to(clock,{t:4.333333333333333,duration:4.333333333333333,ease:'none'},0);
+ 
+tl.fromTo(rig.state,{handX:0,handY:0},{handX:-4,handY:2,duration:.20,ease:'sine.inOut'},.60);
+tl.fromTo(rig.state,{handX:-4,handY:2},{handX:5,handY:-2,duration:.11,ease:'power2.in',immediateRender:false},.99);
+tl.fromTo(rig.state,{handX:5,handY:-2},{handX:0,handY:0,duration:.18,ease:'power1.out',immediateRender:false},1.10);
+tl.fromTo(rig.state,{handX:0,handY:0},{handX:-1100,handY:900,duration:.85,ease:'power2.inOut',immediateRender:false},1.72);
+tl.fromTo(rig.state,{angle:0},{angle:.28,duration:1.25,ease:'sine.inOut'},2.75);
+
+ window.__timelines['shot-04']=tl;
+ window.addEventListener('hf-seek',e=>{
+  const local=e.detail.time-15.8;
+  if(local>=0&&local<=4.333333333333333){tl.totalTime(local,false);rig.draw();}
+ });
+ tl.seek(0,false);rig.draw();
+});
+</script></template>

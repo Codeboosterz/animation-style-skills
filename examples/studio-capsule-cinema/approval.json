@@ -1,0 +1,9 @@
+{
+  "version": "capsule-rig-v2",
+  "status": "approved",
+  "approved_on": "2026-11-09",
+  "user_feedback": "Okay, this looks fantastic. Save it.",
+  "sha256": "f19577fcf6ee08b4dbd9b6f89a17a84957baeb993093743a247ae75f3e85d66b",
+  "source_template": "skills/studio-capsule-cinema/assets/template",
+  "scope": "30-second preview and its drawer-rig refinement; not approval of future films"
+}

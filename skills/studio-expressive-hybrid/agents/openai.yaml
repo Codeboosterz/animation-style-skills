@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expressive Cartoon \u00b7 Hybrid"
+  short_description: "Expressive cartoon stories with a 70/30 workflow"
+  default_prompt: "Use $studio-expressive-hybrid to create a storyboard and animation in this style for my next story."

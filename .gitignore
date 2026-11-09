@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+**/.hyperframes/
+**/output/
+**/snapshots/
+**/generation/
+*.log
+__pycache__/

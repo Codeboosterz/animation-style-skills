@@ -1,0 +1,28 @@
+{
+  "releaseSamples": 601,
+  "contactSamples": 101,
+  "minElbowMargin": 6.251334396009497,
+  "minWristMargin": 6.25133439600949,
+  "maxWristWorldX": 1147,
+  "maxStep": 0.33383364574148855,
+  "contactError": 0,
+  "rest": {
+    "points": [
+      [
+        20,
+        -139
+      ],
+      [
+        26.251334396009497,
+        -103.54692089156052
+      ],
+      [
+        26.25133439600949,
+        -69.54692089156052
+      ]
+    ],
+    "handAngle": 0,
+    "relax": 1
+  },
+  "limitations": "Numerical joint constraints supplement visual inspection. Projected 2D lengths intentionally transition between contact and resting drawings."
+}

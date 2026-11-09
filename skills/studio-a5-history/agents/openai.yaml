@@ -1,0 +1,4 @@
+interface:
+  display_name: "A5 \u00b7 Historical Cartoon"
+  short_description: "Historical cartoons with consistent period staging"
+  default_prompt: "Use $studio-a5-history to create a storyboard and animation in this style for my next story."

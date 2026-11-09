@@ -1,0 +1,4 @@
+interface:
+  display_name: "Illustrated Cartoon \u00b7 Authored"
+  short_description: "Layered cartoon art with controlled local animation"
+  default_prompt: "Use $studio-illustrated-authored to create a storyboard and animation in this style for my next story."

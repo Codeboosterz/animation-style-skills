@@ -1,0 +1,2 @@
+# Editing-style collection
+Preserve approved examples. Make new films in a separate working directory copied from the selected skill's template; do not overwrite a reference to produce a new story. Each skill is independently installable. Keep references self-contained within its folder. Do not include credentials, local account receipts or downloaded third-party reference footage. No new Seedance Mini jobs. Final production edits/exports use Hyperframes. Run the skill validator and any changed helper scripts before shipping changes.

@@ -1,0 +1,15 @@
+<template><style>#root{position:absolute;inset:0;overflow:hidden;background:#101522}video,canvas{display:block;position:absolute;inset:0;width:100%;height:100%;object-fit:fill}</style><div id="root" data-composition-id="shot-06" data-width="1920" data-height="1080"><canvas id="shot-06-canvas" class="clip" data-start="0" data-duration="4.966666667" width="1920" height="1080" data-beat="Together"></canvas></div><script>
+window.__hf=window.__hf||{};window.__hf.buildReady=window.__hf.buildReady||{};
+window.__hf.buildReady['shot-06']=window.__brothersReady.then(async M=>{
+ const rig=await M.createPoster(document.getElementById('shot-06-canvas'),{"image": "assets/images/shot-06-together-v2.png", "blink": "assets/layers/together-blink.png", "eyeA1": [652, 379, 56, 53], "eyeA2": [729, 371, 46, 50], "eyeB1": [938, 374, 46, 49], "eyeB2": [1012, 385, 52, 50], "torsoA": [650, 514, 133, 72], "torsoB": [999, 520, 104, 65], "amplitudeA": 1.8, "amplitudeB": 1.6});
+ const tl=gsap.timeline({paused:true,onUpdate:rig.draw});
+ const clock={t:0};tl.to(clock,{t:4.966666666666667,duration:4.966666666666667,ease:'none'},0);
+ M.addBreath(tl,rig.state,"breathA",4.966666666666667);M.addBreath(tl,rig.state,"breathB",4.966666666666667,.45);M.addBlink(tl,rig.state,"blinkB",.85);M.addBlink(tl,rig.state,"blinkA",2.6);
+ window.__timelines['shot-06']=tl;
+ window.addEventListener('hf-seek',e=>{
+  const local=e.detail.time-25.033333333333335;
+  if(local>=0&&local<=4.966666666666667){tl.totalTime(local,false);rig.draw();}
+ });
+ tl.seek(0,false);rig.draw();
+});
+</script></template>

@@ -1,0 +1,1 @@
+Read the installed Hyperframes skill before editing. This is a preserved approved example; copy to a new directory for a new film. Keep one seekable scene per composition, explicit durations and local assets. Run Hyperframes check and inspect the changed frames before exporting through Hyperframes. Do not add API keys or generation scripts to this browser-served folder.
