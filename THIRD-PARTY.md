@@ -1,6 +1,6 @@
 # Provenance and third-party notices
 
-This is a private working collection. No blanket license is granted here for all media. Review applicable provider/asset terms before distributing a production.
+This is a public reference collection. No blanket license is granted here for all media. Review applicable provider/asset terms before distributing a production.
 
 - B1 drawing originated in work built on kaomei/stickman-video-director; its MIT notice is retained under third-party/. The original B1 video uses a system handwriting font; that font file is not distributed. The portable drawing module requires a licensed StoryHand font.
 - GSAP 3.15.0 is bundled with its original license header (https://gsap.com/standard-license/); it is not relicensed as MIT by this collection.

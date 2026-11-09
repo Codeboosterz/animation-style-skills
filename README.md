@@ -1,6 +1,6 @@
 # Animation Style Skills
 
-Five reusable editing styles developed and reviewed on 9 November 2026. The latest capsule-character rig refinement is saved as an approved reference. This is a private collection of skills, style bibles, editable examples and review lessons.
+Five reusable editing styles developed and reviewed on 9 November 2026. The latest capsule-character rig refinement is saved as an approved reference. This is a public collection of skills, style bibles, editable examples and review lessons.
 
 | Skill | Look and editorial language | Workflow | Best fit |
 |---|---|---|---|
@@ -18,7 +18,7 @@ The all-Wan and 70/30 tests share one drawing style, so they are two recorded va
 
 After cloning or downloading the repository ZIP, open **gallery.html** in any modern browser to play the videos offline. Each skill also bundles its own MP4, poster, provenance and offline player under `assets/reference/`. Installing or sharing one skill folder therefore includes the reference video, without needing the rest of the repository or this computer.
 
-On GitHub, select a poster or **Watch / download MP4**. If GitHub does not show an inline player, use its raw/download control; the local gallery always points directly to the bundled file. Because this repository is private, recipients need repository access or a copy of the downloaded files. Sharing the skill does not change applicable media/provider terms; see [notices](THIRD-PARTY.md).
+On GitHub, select a poster or **Watch / download MP4**. If GitHub does not show an inline player, use its raw/download control; the local gallery always points directly to the bundled file. This repository is public: anyone can view the catalogue, download the videos or clone the skills without signing in. Sharing the skill does not change applicable media/provider terms; see [notices](THIRD-PARTY.md).
 
 ## Watch the actual examples
 
@@ -42,7 +42,7 @@ python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-githu
   --path skills/studio-b1-minimal skills/studio-a5-history skills/studio-expressive-hybrid skills/studio-illustrated-authored skills/studio-capsule-cinema
 ```
 
-Authenticate Git for this private repository first. The helper intentionally refuses to overwrite an already-installed skill. Newly installed skills are available on the next turn.
+No GitHub sign-in is required to download or clone this public repository. The helper intentionally refuses to overwrite an already-installed skill. Newly installed skills are available on the next turn.
 
 Example requests:
 
