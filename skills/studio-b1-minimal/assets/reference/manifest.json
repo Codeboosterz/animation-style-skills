@@ -1,0 +1,14 @@
+{
+  "style": "studio-b1-minimal",
+  "format": "30s / 720p / 30fps",
+  "source": "autopilot-work/procrastination/revision-2/output/preview.mp4",
+  "sha256": "cf8aee970e7df2d8a6f060866a1ae1d8fe6c336f56e3e123f76dc535cc1e86ee",
+  "status": "user-reviewed session output",
+  "archived_on": "2026-11-09",
+  "title": "B1 Minimal Stickman",
+  "video": "preview.mp4",
+  "poster": "poster.jpg",
+  "player": "index.html",
+  "description": "Clean paper backgrounds, slim characters, clear desk staging and object inserts.",
+  "workflow_note": "Approved revised example; the portable drawing module is supplied separately."
+}

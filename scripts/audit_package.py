@@ -18,7 +18,14 @@ for p in root.rglob('*'):
     target=href.split('#')[0]
     if target and not (p.parent/target).exists():errors.append(f'Broken link in {p.relative_to(root)}: {target}')
   count+=1
-for p in (root/'examples').glob('*/manifest.json'):
- obj=json.loads(p.read_text());actual=hashlib.sha256((p.parent/'preview.mp4').read_bytes()).hexdigest()
+manifests=list((root/'examples').glob('*/manifest.json'))+list((root/'skills').glob('*/assets/reference/manifest.json'))
+for p in manifests:
+ obj=json.loads(p.read_text());actual=hashlib.sha256((p.parent/obj.get('video','preview.mp4')).read_bytes()).hexdigest()
  if actual!=obj['sha256']:errors.append(f'Changed approved video: {p.parent.name}')
+for p in root.rglob('*.html'):
+ if any(x in {'.git','.hyperframes','node_modules'} for x in p.parts):continue
+ if p.name not in {'gallery.html','index.html'} or ('assets/reference' not in str(p) and p.parent!=root):continue
+ for href in re.findall(r'(?:src|href|poster)="([^"]+)"',p.read_text()):
+  if '://' in href or href.startswith('#'):continue
+  if not (p.parent/href.split('#')[0]).is_file():errors.append(f'Broken player asset in {p.relative_to(root)}: {href}')
 print(json.dumps({'text_files_checked':count,'errors':errors},indent=2));sys.exit(bool(errors))

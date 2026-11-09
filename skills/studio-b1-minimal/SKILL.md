@@ -5,6 +5,11 @@ description: "Create clean B1 stickman explainers with paper-like backgrounds, c
 
 # B1 Minimal Stickman
 
+## Watch the bundled reference
+
+[Reference video](assets/reference/preview.mp4) · [Poster](assets/reference/poster.jpg) · [Offline player](assets/reference/index.html). These files travel with this standalone skill. Show the preview link when introducing the style, and inspect the reference to calibrate proportions, staging, pacing and motion before producing new work. Keep the new brief's story and cast; do not treat the sample as a mandatory script. Approved revised example; the portable drawing module is supplied separately.
+
+
 Use for clean, lightly hand-drawn explainers about habits, learning and everyday decisions. Read [production.md](references/production.md), then [style-bible.md](references/style-bible.md). The 30-second procrastination film is an example, not a required script.
 
 Keep the slim round-headed figure, cream/white paper ground, dark single-pass contours and very sparse warm accents. Put the character on a physically coherent working axis with the relevant object. For desk scenes, use a genuine rear over-shoulder master and inserts derived from the same set. Preserve object locations across cuts; the laptop must be ahead of the seated actor.

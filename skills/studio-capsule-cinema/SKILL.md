@@ -5,6 +5,11 @@ description: "Create music-led minimalist films with cream capsule characters, s
 
 # Capsule Cinema — Articulated
 
+## Watch the bundled reference
+
+[Reference video](assets/reference/preview.mp4) · [Poster](assets/reference/poster.jpg) · [Offline player](assets/reference/index.html). These files travel with this standalone skill. Show the preview link when introducing the style, and inspect the reference to calibrate proportions, staging, pacing and motion before producing new work. Keep the new brief's story and cast; do not treat the sample as a mandatory script. Approved rig-refined v2, including the corrected drawer resting arm.
+
+
 Use for authored minimalist character stories with deliberate physical acting. Read [production.md](references/production.md), [style-bible.md](references/style-bible.md), and the template's [rig review standard](assets/template/rig-revisions/RIG-STANDARD.md) before adding actions.
 
 Visual authority: the user-approved **rig-refined version 2**, not the earlier awkward drawer-rest pose. Cream bald capsule characters, tiny dark eyes, expressive brows, thin muted outlines and spare near-black sets. This is a distinct look from large-eyed hoodie thumbnails. Do not transfer the old brothers anatomy into it.

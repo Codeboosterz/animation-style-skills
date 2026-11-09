@@ -12,6 +12,14 @@ Five reusable editing styles developed and reviewed on 9 November 2026. The late
 
 The all-Wan and 70/30 tests share one drawing style, so they are two recorded variants of the expressive-cartoon skill. The fully authored illustrated and capsule workflows are separate: one animates layered images, the other draws and articulates body parts directly. No map animation was completed; Gemini Omni remains a documented specialized tool rather than an invented sixth style.
 
+## Preview before importing
+
+**[Open the visual catalogue →](GALLERY.md)** — posters and reference videos for all five styles.
+
+After cloning or downloading the repository ZIP, open **gallery.html** in any modern browser to play the videos offline. Each skill also bundles its own MP4, poster, provenance and offline player under `assets/reference/`. Installing or sharing one skill folder therefore includes the reference video, without needing the rest of the repository or this computer.
+
+On GitHub, select a poster or **Watch / download MP4**. If GitHub does not show an inline player, use its raw/download control; the local gallery always points directly to the bundled file. Because this repository is private, recipients need repository access or a copy of the downloaded files. Sharing the skill does not change applicable media/provider terms; see [notices](THIRD-PARTY.md).
+
 ## Watch the actual examples
 
 - [B1 revised procrastination, 30s](examples/studio-b1-minimal/preview.mp4)

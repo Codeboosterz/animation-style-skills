@@ -1,0 +1,46 @@
+{
+  "offlinePlayback": [
+    {
+      "label": "B1 Minimal Stickman reference video",
+      "duration": 30,
+      "width": 1280,
+      "height": 720,
+      "advanced": true,
+      "error": null
+    },
+    {
+      "label": "A5 Historical Cartoon reference video",
+      "duration": 60,
+      "width": 864,
+      "height": 486,
+      "advanced": true,
+      "error": null
+    },
+    {
+      "label": "Expressive Cartoon — Hybrid reference video",
+      "duration": 30,
+      "width": 1920,
+      "height": 1080,
+      "advanced": true,
+      "error": null
+    },
+    {
+      "label": "Illustrated Cartoon — Authored reference video",
+      "duration": 30,
+      "width": 1920,
+      "height": 1080,
+      "advanced": true,
+      "error": null
+    },
+    {
+      "label": "Capsule Cinema — Articulated reference video",
+      "duration": 30,
+      "width": 1920,
+      "height": 1080,
+      "advanced": true,
+      "error": null
+    }
+  ],
+  "mobileOverflow": false,
+  "standalonePlayersLoaded": 5
+}

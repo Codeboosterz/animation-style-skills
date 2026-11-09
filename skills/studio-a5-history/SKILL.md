@@ -5,6 +5,11 @@ description: "Create A5 historical cartoon explainers with period costume, paint
 
 # A5 Historical Cartoon
 
+## Watch the bundled reference
+
+[Reference video](assets/reference/preview.mp4) · [Poster](assets/reference/poster.jpg) · [Offline player](assets/reference/index.html). These files travel with this standalone skill. Show the preview link when introducing the style, and inspect the reference to calibrate proportions, staging, pacing and motion before producing new work. Keep the new brief's story and cast; do not treat the sample as a mandatory script. Historical visual reference generated with the now-retired Mini model. Future production uses the current workflow; this is not a newly validated Wan result.
+
+
 Use for period history and documentary explainers. Read [production.md](references/production.md), [style-bible.md](references/style-bible.md) and [shot-direction.md](references/shot-direction.md). The Suriname example is a visual benchmark, not a reusable history script for unrelated subjects.
 
 Research the specific story before writing its script. Distinguish documented events from representative staging. Lock a palette, period wardrobe, cast cards and shot geography in a reviewed storyboard. Use the full A5 anatomy contract in each image/video prompt: white filled round head, connected short white neck entering clothing, roughly four-head adult proportions, head narrower than clothed shoulders, black oval eyes, thin black exposed limbs and compact attached black mitten hands. Sets are full-color painterly environments; clothes have restrained shading. Do not substitute B1 paper backgrounds or big-eyed hoodie characters.

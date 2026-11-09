@@ -5,6 +5,11 @@ description: "Create fully authored illustrated cartoon films from layered appro
 
 # Illustrated Cartoon — Fully Authored
 
+## Watch the bundled reference
+
+[Reference video](assets/reference/preview.mp4) · [Poster](assets/reference/poster.jpg) · [Offline player](assets/reference/index.html). These files travel with this standalone skill. Show the preview link when introducing the style, and inspect the reference to calibrate proportions, staging, pacing and motion before producing new work. Keep the new brief's story and cast; do not treat the sample as a mandatory script. Limited local animation of illustrated artwork; no generated-video clips.
+
+
 Use for rich illustrated characters and sets with restrained, repeatable local animation. Read [production.md](references/production.md) and [style-bible.md](references/style-bible.md). This shares the expressive brothers artwork with the hybrid skill but has a different animation pipeline: no generated footage.
 
 Build layered reference art with registered neutral/closed eyes, mouth states, torso regions, hands and prop plates. Use original artwork to define the look; do not redraw the cast as capsule figures. Keep facial patches aligned to the source texture and erase the underlying contour cleanly so doubled eyes/mouths cannot appear.

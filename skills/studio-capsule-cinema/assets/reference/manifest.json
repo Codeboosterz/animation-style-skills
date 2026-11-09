@@ -1,0 +1,14 @@
+{
+  "style": "studio-capsule-cinema",
+  "format": "30s / 1080p / 30fps",
+  "source": "director-work/lust-reference-30s/preview/output/choose-again-30s-rig-refined-v2.mp4",
+  "sha256": "f19577fcf6ee08b4dbd9b6f89a17a84957baeb993093743a247ae75f3e85d66b",
+  "status": "user-reviewed session output",
+  "archived_on": "2026-11-09",
+  "title": "Capsule Cinema — Articulated",
+  "video": "preview.mp4",
+  "poster": "poster.jpg",
+  "player": "index.html",
+  "description": "Cream capsule characters, sparse dark sets, grounded body animation and clean hand contacts.",
+  "workflow_note": "Approved rig-refined v2, including the corrected drawer resting arm."
+}
